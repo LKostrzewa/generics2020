@@ -1,4 +1,4 @@
-package pl.p.lodz.zzpj2020.generics;
+package pl.p.lodz.zzpj2020.generics.task1;
 
 import pl.p.lodz.zzpj2020.generics.task1.model.ComplexStep;
 import pl.p.lodz.zzpj2020.generics.task1.model.OneWayList;
